@@ -24,7 +24,7 @@ x-x-x-x-x-x
 1. What does the project do?
 
 This PhD thesis sheds light on the intersection between secondary vegetation dynamics and the strategies for promoting long-lasting forest restoration with socioeconomic outcomes derived from innovative agroecological food production systems in the landscape level.
-I evaluated the spatiotemporal patterns of secondary vegetation dynamics in Pará, under the light of the Forest Transition Theory, and the reasoning for agroecological transitions in its Northeastern mesoregion, under the light of the Theory of Change.
+I evaluated the spatiotemporal patterns of secondary vegetation dynamics in Pará state, Brazil - under the light of the Forest Transition Theory - and the reasoning for agroecological transitions in Pará's Northeastern mesoregion - under the light of the Theory of Change.
 
 
 2. Why is the project useful?
