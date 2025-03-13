@@ -15,7 +15,7 @@ Partnership:	INPE – Instituto Nacional de Pesquisas Espaciais / National Spati
 
 University of Copenhagen, Denmark | Faculty of Science | Department of Geosciences and Natural Resource Management - IGN
 
-Keywords: Environmental Management, Forest Transition Theory, Land Use Change Modelling, Stakeholders Survey, Theory of Change, Structured Decision Making, Landscape Planning
+<b>Keywords:</b> Environmental Management | Forest Transition Theory | Land Use Change Modelling | Stakeholders Survey | Theory of Change | Structured Decision Making | Landscape Planning
 
 Contact: camilotp@gmail.com
 
