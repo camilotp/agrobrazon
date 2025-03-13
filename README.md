@@ -1,11 +1,11 @@
 --------------------------
-Author:		Dr. Camilo T. Pedrollo
+<small>Author:		Dr. Camilo T. Pedrollo
 
 Supervisors:	Dr. Inge Stupak & Dr. Karsten Raulund-Rasmussen
 
 Funding:	Marie Sklodowska-Curie H2020 co-funding - grant agreement No. 801199
 
-Partnership:	INPE – Instituto Nacional de Pesquisas Espaciais / National Spatial Research Institute (Brazil)
+Partnership:	INPE – Instituto Nacional de Pesquisas Espaciais / National Spatial Research Institute (Brazil)</small>
 
 --------------------------
 
