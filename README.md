@@ -1,12 +1,12 @@
 --------------------------
-<small>Author:		Dr. Camilo T. Pedrollo
+{ font-size: 10px; }<small>Author:		Dr. Camilo T. Pedrollo
 
 Supervisors:	Dr. Inge Stupak & Dr. Karsten Raulund-Rasmussen
 
 Funding:	Marie Sklodowska-Curie H2020 co-funding - grant agreement No. 801199
 
-Partnership:	INPE – Instituto Nacional de Pesquisas Espaciais / National Spatial Research Institute (Brazil)</small>
-
+Partnership:	INPE – Instituto Nacional de Pesquisas Espaciais / National Spatial Research Institute (Brazil)</small> 
+{ font-size: 40px; }
 --------------------------
 
 #AGROBRAZON - Ph.D. Thesis Independent Project
