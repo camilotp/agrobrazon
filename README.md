@@ -1,5 +1,3 @@
----
-x-x-x-x-x-x
 #AGROBRAZON
 
 'Secondary Vegetation Dynamics and Agroecological Forest Restoration in Pará, Brazilian Amazon'
@@ -21,8 +19,6 @@ x-x-x-x-x-x
 ---
 
 Keywords: Environmental Management, Forest Transition Theory, Land Use Change Modelling, Stakeholders Survey, Theory of Change, Structured Decision Making, Landscape Planning
-
-Summary:
 
 1. What does the project do?
 
