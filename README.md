@@ -29,7 +29,7 @@ I evaluated the spatiotemporal patterns of secondary vegetation dynamics in Par�
 
 2. Why is the project useful?
 
-2.1. Large-Scale Potential for Rehabilitation:
+2.1. <b>Large-Scale Potential for Rehabilitation:</b>
 Pará, being the second-largest state in the Brazilian Amazon and covering over 1.2 million km², offers significant opportunities for both natural regeneration and productive forest rehabilitation at scale. This makes it a critical region for implementing sustainable land-use practices that can have far-reaching environmental and socioeconomic impacts.
 
 2.2. Intersection of Forest Rehabilitation and Secondary Vegetation Dynamics:
