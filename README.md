@@ -62,7 +62,7 @@ While a whole thesis is a dense material to access, and my research papers are s
 
 <b>4. Where can users get help with their project?</b>
 
-<i>Looking for collaboration in topics such as Bioeconomy and Environmental Management? I developed innovative approaches bridging qualitative and quantitative research methods and this might worth reaching out. <b>I am always open to collaborations!</i></b>
+<i>Looking for collaborations in topics such as Bioeconomy and Environmental Management? I developed innovative approaches bridging qualitative and quantitative research methods, so it might be worth reaching out. <b>Do not hesitate in contacting me, I am always open to collaborations!</i></b>
 
 ---
 x-x-x-x-x-x
