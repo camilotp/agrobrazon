@@ -9,23 +9,18 @@ Partnership:	INPE – Instituto Nacional de Pesquisas Espaciais / National Spati
 
 --------------------------
 
-#AGROBRAZON
+#AGROBRAZON - Ph.D. Thesis Independent Project
 
 'Secondary Vegetation Dynamics and Agroecological Forest Restoration in Pará, Brazilian Amazon'
 
-Ph.D. Thesis
-
 University of Copenhagen, Denmark | Faculty of Science | Department of Geosciences and Natural Resource Management - IGN
 
-
+Keywords: Environmental Management, Forest Transition Theory, Land Use Change Modelling, Stakeholders Survey, Theory of Change, Structured Decision Making, Landscape Planning
 
 Contact: camilotp@gmail.com
 
 x-x-x-x-x-x
 ---
-
-Keywords: Environmental Management, Forest Transition Theory, Land Use Change Modelling, Stakeholders Survey, Theory of Change, Structured Decision Making, Landscape Planning
-
 1. What does the project do?
 
 This PhD thesis sheds light on the intersection between secondary vegetation dynamics and the strategies for promoting long-lasting forest restoration with socioeconomic outcomes derived from innovative agroecological food production systems in the landscape level.
