@@ -17,6 +17,7 @@ University of Copenhagen, Denmark | Faculty of Science | Department of Geoscienc
 
 <b>Keywords:</b> Environmental Management | Forest Transition Theory | Land Use Change Modelling | Stakeholders Survey | Theory of Change | Structured Decision Making | Landscape Planning
 
+Available at: http://dx.doi.org/10.13140/RG.2.2.15180.73605
 Contact: camilotp@gmail.com
 
 x-x-x-x-x-x
