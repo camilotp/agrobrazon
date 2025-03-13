@@ -1,3 +1,14 @@
+--------------------------
+Author:		Dr. Camilo T. Pedrollo
+
+Supervisors:	Dr. Inge Stupak & Dr. Karsten Raulund-Rasmussen
+
+Funding:	Marie Sklodowska-Curie H2020 co-funding - grant agreement No. 801199
+
+Partnership:	INPE – Instituto Nacional de Pesquisas Espaciais / National Spatial Research Institute (Brazil)
+
+--------------------------
+
 #AGROBRAZON
 
 'Secondary Vegetation Dynamics and Agroecological Forest Restoration in Pará, Brazilian Amazon'
@@ -6,12 +17,7 @@ Ph.D. Thesis
 
 University of Copenhagen, Denmark | Faculty of Science | Department of Geosciences and Natural Resource Management - IGN
 
---------------------------
-Author:		Dr. Camilo T. Pedrollo
-Supervisors:	Dr. Inge Stupak & Dr. Karsten Raulund-Rasmussen
-Funding:	Marie Sklodowska-Curie H2020 co-funding - grant agreement No. 801199
-Partnership:	INPE – Instituto Nacional de Pesquisas Espaciais / National Spatial Research Institute (Brazil)
---------------------------
+
 
 Contact: camilotp@gmail.com
 
